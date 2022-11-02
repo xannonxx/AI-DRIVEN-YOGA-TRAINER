@@ -1,0 +1,10 @@
+This is a basic web-application which will facilitate the booking of venue halls by making the process completely digital and free from the paper-pen and telephonic hustle.
+
+An android app which can INSTANTLY alert the Guardians( along with user location ) whenever the user is in an emergency situation. It can be triggered just by shaking the android device in which the app is installed.
+
+This android app makes use of the accelerometer sensor, smsmanager and FusedLocationProvider API.The accelerometer is an in-built comment of a smartphone to measure its acceleration.
+
+
+An AI driven yoga trainer with features like aasana detection using Machine Learning, guide for people who want to start yoga and/or meditation, analytics page to track your daily activity and a personalised routine for each individual.
+
+This application is built using Mediapipe and OpenCV.OpenCV is a Python library that allows you to perform image processing and computer vision tasks.
